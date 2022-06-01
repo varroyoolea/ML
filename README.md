@@ -1,2 +1,2 @@
 # ML
-códigos a la mano
+implementeación de clasificadores tradicionales de aprendizaje automático
