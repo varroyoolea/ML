@@ -1,2 +1,2 @@
 # ML
-implementeación de clasificadores tradicionales de aprendizaje automático
+implementación de clasificadores tradicionales de aprendizaje automático
